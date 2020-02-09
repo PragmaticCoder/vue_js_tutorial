@@ -20,6 +20,7 @@ export default {
   color: #fff;
   text-align: center;
   padding: 10px;
+  text-decoration: none;
 }
 
 .header a {
