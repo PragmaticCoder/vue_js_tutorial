@@ -13,7 +13,7 @@ export default {
   props: ["todo"],
   methods: {
     markComplete() {
-      console.log("On change triggered!");
+      this.todo.completed = !this.todo.completed;
     }
   }
 }
