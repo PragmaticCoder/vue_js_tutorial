@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>TodoList App v1.0.0</h1>
+    <p1>This is part of my recent vue js tutorials</p1>
   </div>
 </template>
