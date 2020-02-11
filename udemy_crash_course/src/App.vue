@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <TutorialComponent name="Delilah" imgSrc="http://cloudcareersolutions.com/wp-content/uploads/2018/09/module-6.jpg"/>
     <TutorialComponent name="Alvi"/>
+
   </div>
 </template>
 
