@@ -1,17 +1,13 @@
 <template>
   <div id="my-app">
-    <h1 v-text="message"></h1>
+    <h1>Hey There {{ name.split('').reverse().join('')}}! How's it like in New York City!?</h1>
   </div>
 </template>
 
 <script>
 export default {
   name: "TutorialComponent",
-  data: function() {
-    return {
-      message: "Hello Vue"
-    };
-  }
+  props: ["name"]
 };
 </script>
 

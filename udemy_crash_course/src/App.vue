@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <TutorialComponent message="New Component"/>
+    <TutorialComponent name="Delilah"/>
+    <TutorialComponent name="Alvi"/>
   </div>
 </template>
 
